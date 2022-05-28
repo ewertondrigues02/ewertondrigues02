@@ -22,7 +22,8 @@
 </div></br>
 Apaixonado por Tecnologia, educaçao e mudar de pessoas atraves da tecnologia e Ciencia de Dados.
 </br>
-
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 ### Dashboards
