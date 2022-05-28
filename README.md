@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewertonrrodrigues/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDNcyFeruKlLGrIYykVU_iw)
 
-![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=dark)
+![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=dracula)
 
 #
 ## Tecnologias que eu uso no meu dia
@@ -17,7 +17,7 @@
 <img  aling='center' alt='flask' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img  aling='center' alt='react' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img  aling='center' alt='excel' src="	https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img  aling='center' alt='excel' src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=dracula">
+<img  aling='center' alt='excel' src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 </div></br>
 Apaixonado por Tecnologia, educaçao e mudar de pessoas atraves da tecnologia e Ciencia de Dados.
