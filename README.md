@@ -14,7 +14,7 @@
 <img  aling='center' alt='css3' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  aling='center' alt='python' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img  aling='center' alt='mysql' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img  aling='center' alt='react' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img  aling='center' alt='react' src="https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=61DAFB">
 <img  aling='center' alt='excel' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
