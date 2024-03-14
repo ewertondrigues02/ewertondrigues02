@@ -14,7 +14,6 @@
 <img  aling='center' alt='css3' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  aling='center' alt='python' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img  aling='center' alt='mysql' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img  aling='center' alt='react' src="https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=61DAFB">
 <img  aling='center' alt='excel' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
@@ -25,9 +24,3 @@ Apaixonado por Tecnologia, educaçao e mudar de pessoas atraves da tecnologia e 
 
 [![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#
-
-### Dashboards
--  [Analise dados 2016 a 2018](https://github.com/ewertondrigues/faturamento_2016_2018/blob/main/img%20faturamento%202016%202018.PNG)
-
--  [Venda de Consoles ](https://github.com/ewertondrigues/venda_console_no_mundo/blob/main/img%20venda%20de%20consoles.PNG)
