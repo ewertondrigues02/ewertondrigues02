@@ -15,7 +15,6 @@
 <img  aling='center' alt='powerbi' src="https://img.shields.io/badge/POWER_BI-DEA01E?style=for-the-badge&logo=powerbi&logoColor=white">
 <img  aling='center' alt='sqlserver' src="https://img.shields.io/badge/Microsoft_SQL_Server-1572B6?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white">
 <img  aling='center' alt='python' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img  aling='center' alt='sqlserver' src="https://img.shields.io/badge/SQL_Server-005C84?style=for-the-badge&logo=sqlserver&logoColor=white">
 <img  aling='center' alt='excel' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
