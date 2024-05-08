@@ -14,6 +14,8 @@
 <img  aling='center' alt='java' src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white">
 <img  aling='center' alt='spring' src="https://img.shields.io/badge/Spring-14354C?style=for-the-badge&logo=spring&logoColor=white">
 <img  aling='center' alt='excel' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img  aling='center' alt='postgres' src="https://img.shields.io/badge/Postgres-14354C?style=for-the-badge&logo=postgres&logoColor=white">
+<img  aling='center' alt='postman' src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white">
 
 
 </div></br>
