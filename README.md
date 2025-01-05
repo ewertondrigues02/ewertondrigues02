@@ -1,27 +1,61 @@
-#### Conta Secundaria
-## Ola! Eu Sou Ewerton Rodrigues 👋
-#
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewertonrrodrigues/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDNcyFeruKlLGrIYykVU_iw)
+## Olá, meu nome é {Ewerton}!
 
-![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=dracula)
+### ⚙️ GitHub Analytics
 
-#
-## Tecnologias que eu uso no meu dia
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ewertondrigues02&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ewertondrigues02&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<div style='display: inline_block'></br>
+--- 
 
-<img  aling='center' alt='java' src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white">
-<img  aling='center' alt='spring' src="https://img.shields.io/badge/Spring-14354C?style=for-the-badge&logo=spring&logoColor=white">
-<img  aling='center' alt='excel' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img  aling='center' alt='postgres' src="https://img.shields.io/badge/Postgres-14354C?style=for-the-badge&logo=postgres&logoColor=white">
-<img  aling='center' alt='postman' src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white">
+### 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=ewertondrigues02&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
-</div></br>
-Apaixonado por Tecnologia, educaçao e mudar de pessoas atraves da tecnologia.
-</br>
-</br>
+---
 
-[5!5[Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/ewertondrigues02/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 
