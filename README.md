@@ -72,13 +72,10 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 ## Repositórios Principais
 
 <p align="center">
-  <div style="display: inline-block; margin-right: 20px;">
+  <div style="display: flex; justify-content: space-around; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=banco-digital&theme=radical" alt="Banco Digital" width="300" />
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=sistema-de-gestao-de-vendas&theme=radical" alt="Sistema de Gestão de Vendas" width="300" />
-  </div>
-  <div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=micro-service-criacao-de-pedido&theme=radical" alt="Microservice Criação de Pedido" width="300" />
   </div>
 </p>
+
