@@ -1,4 +1,4 @@
-<h1 align="center">Ewerton Rodrigues</h1>
+<h1 align="center">Ewerton Rodrigues - Desenvolvedor Java</h1>
 
 <p align="center">
   <a href="https://ewertondrigues02.github.io/meu-portifolio/">
@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<h3 align="center">Desenvolvedor Java</h3>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
