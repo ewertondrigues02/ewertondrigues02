@@ -1,9 +1,10 @@
-<h1 align="center">
-  Ewerton Rodrigues 
+<h1 align="center">Ewerton Rodrigues</h1>
+
+<p align="center">
   <a href="https://github.com/ewertondrigues02/meu-portifolio">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ewerton%20Rodrigues-blue?style=flat&logo=github&logoColor=white" alt="Meu Portfólio"/>
   </a>
-</h1>
+</p>
 
 <h3 align="center">Desenvolvedor Java</h3>
 
