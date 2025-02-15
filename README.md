@@ -57,9 +57,11 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 - 🤗 Gosto de aprender e compartilhar conhecimento com outros desenvolvedores.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=radical" alt="Ewerton's GitHub stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=radical" alt="Ewerton's GitHub stats" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 
 
 
