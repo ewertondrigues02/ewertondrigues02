@@ -1,7 +1,8 @@
 <h1 align="center">Ewerton Rodrigues</h1>
 <h3 align="center">Desenvolvedor Java</h3>
 
-[![Meu Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ewerton%20Rodrigues-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewertondrigues02/meu-portifolio)
+[![Meu Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ewerton%20Rodrigues-blue?style=plastic&logo=github&logoColor=white)](https://github.com/ewertondrigues02/meu-portifolio)
+
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
