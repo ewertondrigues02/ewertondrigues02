@@ -3,8 +3,6 @@
 
 [![Meu Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ewerton%20Rodrigues-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewertondrigues02/meu-portifolio)
 
-
-
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
