@@ -5,6 +5,24 @@
   <img src="https://github.com/ewertondrigues02/alguma-imagem.png" alt="Banner Ewerton"/>
 </p>
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Hibernate](https://img.shields.io/badge/Hibernate-8B2A2B?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/orm/documentation/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-24A1AE?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Flyway](https://img.shields.io/badge/Flyway-0095B6?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/documentation/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/documentation/)
+
+
+
+
 Sou um desenvolvedor Java com paixão por criar soluções eficientes e inovadoras. Tenho experiência em diversos projetos de desenvolvimento de software, principalmente em Java, Spring Boot, microsserviços e testes unitários. Além disso, sou formado em Análise e Desenvolvimento de Sistemas e estou em processo de especialização em Backend Java. Adoro aprender novas tecnologias e enfrentar desafios, sempre buscando ajudar a evoluir o ambiente ao meu redor com as minhas contribuições.
 
 Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em Spring Boot, microsserviços e metodologias ágeis. Além disso, busco compartilhar meu conhecimento através de cursos e tutoriais, com o objetivo de impactar positivamente outras pessoas.
