@@ -35,6 +35,6 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 
 ## Repositórios Principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=projeto-java&theme=radical)](https://github.com/ewertondrigues02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=controle-financeiro&theme=radical)](https://github.com/ewertondrigues02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=gestao-contabil&theme=radical)](https://github.com/ewertondrigues02)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=projeto-java&theme=radical)](https://github.com/ewertondrigues02/banco-digital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=controle-financeiro&theme=radical)](https://github.com/ewertondrigues02/sistema-de-gestao-de-vendas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=gestao-contabil&theme=radical)](https://github.com/ewertondrigues02/micro-service-criacao-de-pedido)
