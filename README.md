@@ -29,9 +29,8 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact&theme=radical)](https://github.com/ewertondrigues02)
 
 ## Conheça meu trabalho em outras redes..
-[<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/c/ResumodoSucesso)
+[<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/@iclasscode6274)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/ewerton-rodrigues)
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@ewertondrigues02)
 
 ## Repositórios Principais
 
