@@ -71,8 +71,8 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 
 ## Repositórios Principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=banco-digital&theme=radical)](https://github.com/ewertondrigues02/banco-digital)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=sistema-de-gestao-de-vendas&theme=radical)](https://github.com/ewertondrigues02/sistema-de-gestao-de-vendas)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=micro-service-criacao-de-pedido&theme=radical)](https://github.com/ewertondrigues02/micro-service-criacao-de-pedido)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=banco-digital&theme=radical" alt="Banco Digital" width="300" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=sistema-de-gestao-de-vendas&theme=radical" alt="Sistema de Gestão de Vendas" width="300" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=micro-service-criacao-de-pedido&theme=radical" alt="Microservice Criação de Pedido" width="300" />
+</p>
