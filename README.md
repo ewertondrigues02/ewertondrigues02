@@ -56,9 +56,11 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 - 🌱 Estou melhorando minhas habilidades em Spring Boot e microsserviços.
 - 🤗 Gosto de aprender e compartilhar conhecimento com outros desenvolvedores.
 
-[![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=radical)](https://github.com/ewertondrigues02)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewertondrigues02&show_icons=true&theme=radical" alt="Ewerton's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertondrigues02&layout=compact&theme=radical)](https://github.com/ewertondrigues02)
 
 ## Conheça meu trabalho em outras redes..
 [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/@iclasscode6274)
