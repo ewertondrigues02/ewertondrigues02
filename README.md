@@ -51,7 +51,7 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
 
 
-## Details
+## Detalhes
 - 🔭 Estou trabalhando em projeto de **Banco Digital**.
 - 🌱 Estou melhorando minhas habilidades em Spring Boot e microsserviços.
 - 🤗 Gosto de aprender e compartilhar conhecimento com outros desenvolvedores.
