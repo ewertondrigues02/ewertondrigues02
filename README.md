@@ -41,14 +41,15 @@ Sou um desenvolvedor Java com paixão por criar soluções eficientes e inovador
 Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em Spring Boot, microsserviços e metodologias ágeis. Além disso, busco compartilhar meu conhecimento através de cursos e tutoriais, com o objetivo de impactar positivamente outras pessoas.
 
 ## Skills
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&colorA=007396&colorB=003366&style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&colorA=6DB33F&colorB=006400&style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&colorA=316192&colorB=00008B&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&colorA=4479A1&colorB=00008B&style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&colorA=2496ED&colorB=003366&style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&colorA=F05032&colorB=8B0000&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white&colorA=25A162&colorB=006400&style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white&colorA=005F0F&colorB=003300&style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
+
 
 ## Details
 - 🔭 Estou trabalhando em projeto de **Banco Digital**.
