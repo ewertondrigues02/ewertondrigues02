@@ -5,7 +5,7 @@
   <img src="https://github.com/ewertondrigues02/alguma-imagem.png" alt="Banner Ewerton"/>
 </p>
 
-[[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/seu_video_id/0.jpg)](https://www.youtube.com/watch?v=seu_video_id)](https://www.youtube.com/@iclasscode6274/videos)
+[[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/seu_video_id/0.jpg)]([https://www.youtube.com/watch?v=seu_video_id](https://youtu.be/sfRAB5Rev40))](https://www.youtube.com/@iclasscode6274/videos)
 
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
