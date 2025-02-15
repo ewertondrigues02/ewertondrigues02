@@ -1,9 +1,7 @@
 <h1 align="center">Ewerton Rodrigues</h1>
 <h3 align="center">Desenvolvedor Java</h3>
 
-[![Ewerton Rodrigues - Portfólio](https://via.placeholder.com/1200x300.png?text=Ewerton+Rodrigues+Portfólio)](https://github.com/ewertondrigues02/meu-portifolio)
-
-
+[![Ewerton Rodrigues - Portfólio](https://github.com/ewertondrigues02/meu-portifolio/blob/main/assets/banner.png)](https://github.com/ewertondrigues02/meu-portifolio)
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
