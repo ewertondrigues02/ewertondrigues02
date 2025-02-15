@@ -69,7 +69,6 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 <a href="https://www.youtube.com/@iclasscode6274">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="30">
 </a>
- &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ewerton-rodrigues">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
