@@ -1,7 +1,7 @@
 <h1 align="center">Ewerton Rodrigues</h1>
 
 <p align="center">
-  <a href="https://github.com/ewertondrigues02/meu-portifolio">
+  <a href="https://ewertondrigues02.github.io/meu-portifolio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ewerton%20Rodrigues-blue?style=flat&logo=github&logoColor=white" alt="Meu Portfólio"/>
   </a>
 </p>
