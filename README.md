@@ -1,13 +1,6 @@
 <h1 align="center">Ewerton Rodrigues</h1>
 <h3 align="center">Desenvolvedor Java</h3>
 
-<p align="center">
-  <img src="https://github.com/ewertondrigues02/alguma-imagem.png" alt="Banner Ewerton"/>
-</p>
-
-[[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/seu_video_id/0.jpg)]([https://www.youtube.com/watch?v=seu_video_id](https://youtu.be/sfRAB5Rev40))](https://www.youtube.com/@iclasscode6274/videos)
-
-
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
