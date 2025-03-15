@@ -33,6 +33,8 @@
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/documentation)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
 [![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/doc/)
+[![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
 
 
 
@@ -49,6 +51,10 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
+[![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
+
+
 
 
 ## Detalhes
