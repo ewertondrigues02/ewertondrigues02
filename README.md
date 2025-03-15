@@ -35,6 +35,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/doc/)
 [![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
 
 
 
@@ -53,6 +55,8 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/documentation.html)
 [![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
 
 
 
