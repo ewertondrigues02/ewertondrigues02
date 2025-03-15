@@ -91,8 +91,6 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=sistema-de-gestao-de-vendas&theme=radical" alt="Sistema de Gestão de Vendas" width="300" />
    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=agendamento-consultas&theme=radical" alt="Sistema de Gestão de Vendas" width="300" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=micro-service-criacao-de-pedido&theme=radical" alt="Microservice Criação de Pedido" width="300" />
 </p>
 
