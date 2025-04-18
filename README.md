@@ -94,4 +94,6 @@ Atualmente, estou focado em projetos backend e aprimorando minhas habilidades em
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewertondrigues02&repo=micro-service-criacao-de-pedido&theme=radical" alt="Microservice Criação de Pedido" width="300" />
 </p>
 
+![RoadMap - API](https://github.com/user-attachments/assets/fedc3109-43a9-40e4-8b03-6adff1388a26)
+
 
